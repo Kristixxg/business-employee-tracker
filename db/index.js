@@ -6,25 +6,12 @@ class DB {
     }
 
 
-
-
     findAllEmployees(){
         return this.connection.query(
             "SELECT * FROM employee;"
         )
     }
 
-    newDep(){
-        let departments = this.connection.query(
-            "DESCRIBE department"
-        )
-
-        
-    }
-
 }
 
 module.exports = new DB(connection);
-
-
-
