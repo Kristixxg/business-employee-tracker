@@ -36,6 +36,8 @@ node server.js
 
 The following video shows an example of the application being used from the command line:
 
+Link to the videos: https://drive.google.com/drive/folders/1R8QV3O6Cu9NkVgZjzdikbyav59mRv3d9?usp=sharing
+
 - View all employees, roles and departments
 
 <img src="assets/Views.gif" width="900">
