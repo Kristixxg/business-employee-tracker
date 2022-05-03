@@ -25,16 +25,36 @@ node server.js
 ## Code Snippets 
 
 - updating employee's role in the database
-<img src="assets/Screen%20Shot%202022-05-02%20at%206.19.09%20PM.png" width="600">
+
+<img src="assets/Screen%20Shot%202022-05-02%20at%206.19.09%20PM.png" width="700">
+
 - prompt manager choices to assign to the selected employee
-<img src="assets/Screen%20Shot%202022-05-02%20at%206.19.32%20PM.png" width="600">
+
+<img src="assets/Screen%20Shot%202022-05-02%20at%206.19.32%20PM.png" width="700">
 
 ## Mock-Up
 
 The following video shows an example of the application being used from the command line:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
+- View all employees, roles and departments
 
+<img src="assets/Views.gif" width="900">
+
+- Add employee
+
+<img src="assets/Add%20employee.gif" width="900">
+
+- Add role
+
+<img src="assets/Add%20role.gif" width="900">
+
+- Add department
+
+<img src="assets/Add%20department.gif" width="900">
+
+- Update employee role
+
+<img src="assets/Update%20employee.gif" width="900">
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
