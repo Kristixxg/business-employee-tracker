@@ -86,7 +86,7 @@ function allEmployees() {
 
 //query all departments
 function allDepartments() {
-  return db.query('SELECT   * FROM department', function (err, results) {
+  return db.query('SELECT * FROM department', function (err, results) {
     console.table(results);
     init();
   });
